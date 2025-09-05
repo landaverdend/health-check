@@ -1,0 +1,9 @@
+{
+  "toEmail": "nicodemus.landaverde98@gmail.com",
+  "fromEmail": "health@landaverde.io",
+  "interval": 300, 
+  "domains": [
+    "https://landaverde.io/",
+    "https://bitcointools.landaverde.io/"
+  ]
+}
