@@ -4,6 +4,8 @@
   "interval": 300, 
   "domains": [
     "https://landaverde.io/",
-    "https://bitcointools.landaverde.io/"
+    "https://bitcointools.landaverde.io/",
+    "https://battlesnakes.io/",
+    "https://voltorb.landaverde.io/"
   ]
 }

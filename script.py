@@ -38,7 +38,7 @@ def run_monitoring_loop():
       try:
         response = requests.get(domain)
         print(response)
-        if (response.status_code == 200):
+        if (response.status_code != 200):
           should_send_email = True
 
       except Exception as e:
